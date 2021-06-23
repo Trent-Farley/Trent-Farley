@@ -30,5 +30,6 @@ MealFridge - As a senior project, my group built an application that utilizes th
 
 Event Coordinator- Byte Club (2020-2021) Organized programs and activities for students to participate in.
 I coordinated with Western Oregon University and the computer science student body to create events such as hack-a-thons and game nights.
+
 Hack-a-thon Representative- HackOR (2021) Coordinated with fellow representatives to organize and execute a hackathon.
 I would love to discuss what a hack-a-thon is in a formal interview.
